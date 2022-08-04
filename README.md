@@ -1,16 +1,21 @@
-### Hi there 👋
+### Привет!
 
-<!--
-**EvgenyT83/EvgenyT83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я <b>Евгений Турицын</b>, разработчик на python.
 
-Here are some ideas to get you started:
+### Мой стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Windows, Python, PostgreSQL, Git, Html, Css
+
+### Вот, что я умею
+
+- Python. [Репозиторий с дипломной работой](https://github.com/EvgenyT83/Vkinder_netology_diplom)
+
+- Html, Css. [HTML-вёрстка: с нуля до первого макета](https://github.com/EvgenyT83/Main_work_html_netology)
+
+- PostgreSQL. [Hemeworks](https://github.com/EvgenyT83/Databases-for-python-developers)
+
+- Python. [Парсер авито](https://github.com/EvgenyT83/Parser_avito)
+
+### Сертификат об обучении
+
+- Python https://github.com/EvgenyT83/EvgenyT83/blob/main/Python-разработчик(Нетология).pdf
