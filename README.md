@@ -16,6 +16,10 @@ Windows, Python, PostgreSQL, Git, Html, Css
 
 - Python. [Парсер авито](https://github.com/EvgenyT83/Parser_avito)
 
-### Сертификат об обучении
+### Сертификат об обучении в нетологии
 
 - Python https://github.com/EvgenyT83/EvgenyT83/blob/main/Python-разработчик(Нетология).pdf
+
+### Другие курсы
+
+- https://github.com/EvgenyT83/EvgenyT83
