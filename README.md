@@ -16,6 +16,8 @@ Windows, Python, PostgreSQL, Git, Html, Css
 
 - Python. [Парсер авито](https://github.com/EvgenyT83/Parser_avito)
 
+- Python. [Чат-бот телеграм показывающий новости с сайта Е1](https://github.com/EvgenyT83/TelegramBot-ParserE1)
+
 ### Сертификат об обучении в нетологии
 
 - Python https://github.com/EvgenyT83/EvgenyT83/blob/main/Python-разработчик(Нетология).pdf
