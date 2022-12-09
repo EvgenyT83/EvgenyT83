@@ -4,7 +4,7 @@
 
 ### Мой стек
 
-Windows, Python, PostgreSQL, Git, Html, Css
+Windows, Python, PostgreSQL, Data Science, Git, Html, Css
 
 ### Вот, что я умею
 
