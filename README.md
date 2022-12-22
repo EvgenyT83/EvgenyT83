@@ -4,7 +4,7 @@
 
 ### Мой стек
 
-Windows, Python, Data Science, PostgreSQL, Git, Html, Css
+Windows, Python, Data Science, Machine Learning, PostgreSQL, Git, Html, Css
 
 ### Вот, что я умею
 
@@ -18,9 +18,13 @@ Windows, Python, Data Science, PostgreSQL, Git, Html, Css
 
 - Python. [Чат-бот телеграм показывающий новости с сайта Е1](https://github.com/EvgenyT83/TelegramBot-ParserE1)
 
-### Сертификат об обучении в нетологии
+### Сертификат об обучении в Нетологии
 
 - Python https://github.com/EvgenyT83/EvgenyT83/blob/main/Python-разработчик(Нетология).pdf
+
+### Сертификат об обучении в Томском государственном университете систем управления и радиоэлектроники
+
+- Методы анализа и прогнозирования данных https://github.com/EvgenyT83/EvgenyT83/blob/main/Методы%20анализа%20и%20прогнозирования%20данных.pdf
 
 ### Другие курсы
 
